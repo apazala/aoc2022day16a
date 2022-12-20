@@ -1,0 +1,15 @@
+/home/alberto/Documents/adventofcode/aoc2022day16a/bin/Debug/net6.0/aoc2022day16a
+/home/alberto/Documents/adventofcode/aoc2022day16a/bin/Debug/net6.0/aoc2022day16a.deps.json
+/home/alberto/Documents/adventofcode/aoc2022day16a/bin/Debug/net6.0/aoc2022day16a.runtimeconfig.json
+/home/alberto/Documents/adventofcode/aoc2022day16a/bin/Debug/net6.0/aoc2022day16a.dll
+/home/alberto/Documents/adventofcode/aoc2022day16a/bin/Debug/net6.0/ref/aoc2022day16a.dll
+/home/alberto/Documents/adventofcode/aoc2022day16a/bin/Debug/net6.0/aoc2022day16a.pdb
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/aoc2022day16a.csproj.AssemblyReference.cache
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/aoc2022day16a.GeneratedMSBuildEditorConfig.editorconfig
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/aoc2022day16a.AssemblyInfoInputs.cache
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/aoc2022day16a.AssemblyInfo.cs
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/aoc2022day16a.csproj.CoreCompileInputs.cache
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/aoc2022day16a.dll
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/ref/aoc2022day16a.dll
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/aoc2022day16a.pdb
+/home/alberto/Documents/adventofcode/aoc2022day16a/obj/Debug/net6.0/aoc2022day16a.genruntimeconfig.cache
